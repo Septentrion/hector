@@ -1,3 +1,8 @@
 # hector
 Projet  de démonstration
-test
+
+## Objectifs
+Construire une plate-forme de votes
+
+## Code
+PHP 8.3
