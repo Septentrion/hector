@@ -8,4 +8,4 @@ Construire une plate-forme de votes
 PHP 8.3
 
 ## Installation
-A écrire. Gotcha !
+A écrire.
