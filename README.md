@@ -5,4 +5,4 @@ Projet  de démonstration
 Construire une plate-forme de votes
 
 ## Code
-PHP
+PHP 8
